@@ -1,9 +1,14 @@
 Minecraft 3D Textures
 
-*Diamond Sword Staff Texture
+Diamond Sword Staff Texture
+\
 You can see at the Example how it looks like.
-Download the .zip and put it in your Minecraft Resource Pack Folder.*
+\
+Download the .zip and put it in your Minecraft Resource Pack Folder.
 
-The Skin is tested on Version 12.2.2
-Created with BlockBench
-Credits to Yanneck.
+
+*The Skin is tested on Version 12.2.2
+\
+Created with BlockBench 3.8.4+
+\
+Credits to Yanneckh.*
