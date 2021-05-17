@@ -7,6 +7,6 @@ It contains a 3D Custom Texture for Key Vaults.
 LargeHugeKv.png = Texture for Large and Huge Key Vaults\
 GigaBigKv.png = Texture for Gigantic and Big Key Vaults*
 
-The Skin is tested on Version 12.2.2
-Created with BlockBench 3.8.4+
+The Pack is tested on Version 12.2.2\
+Created with BlockBench 3.8.4+\
 Credits to Yanneckh.
