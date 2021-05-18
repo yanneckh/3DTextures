@@ -7,7 +7,7 @@ It contains a 3D Custom Texture for Key Vaults.
 LargeHugeKv.png = Texture for Large and Huge Key Vaults\
 GigaBigKv.png = Texture for Gigantic and Big Key Vaults*
 
-Download Link: https://mega.nz/file/qToyhIzZ#WAUnRTYK1_v6iGCIbaXENy-aBlcaMs_NN5N0NICH0Ts
+Make sure you use Optifine 1.12.2 !
 
 The Pack is tested on Version 12.2.2\
 Created with BlockBench 3.8.4+\
