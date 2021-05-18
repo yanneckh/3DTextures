@@ -4,6 +4,7 @@ This Resource Pack is for a Prison Server called "Wicked Prison".\
 It contains couple Textures combined.
 - KeyVaults
 - Bombs
+- Keys
 
 
 *You can see all Textures in this Pack, when you go one Folder back and look in the Folder with the Name "Wicked"*
