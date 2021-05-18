@@ -9,6 +9,8 @@ GigaBigKv.png = Texture for Gigantic and Big Key Vaults*
 
 Make sure you use Optifine 1.12.2 !
 
+Discord Link to be up to date: https://discord.gg/zmqmQYCUuv
+
 The Pack is tested on Version 12.2.2\
 Created with BlockBench 3.8.4+\
 Credits to Yanneckh.
